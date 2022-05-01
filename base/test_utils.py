@@ -1,6 +1,5 @@
 from django.urls import reverse
 
-
 def create_dummy_employee(self):
     url = reverse('employee-list')
     data = {
