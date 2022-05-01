@@ -8,7 +8,7 @@ programming challenge.
 
 - To access documentation:
 `localhost:8000/swagger`
-- Swagger Documentation has been exported to a postman workspace
+- Swagger Documentation has been also exported to a postman workspace
 because of an issue I encountered with POST,PUT,PATCH(no inputfield to enter the request body)
 
     Link: https://www.postman.com/crimson-satellite-717221/workspace/employee-management-api/folder/20755199-f715d589-5128-421c-81a1-200902866c33?ctx=documentation
