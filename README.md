@@ -1,7 +1,7 @@
 # Welcome
 
-This simple API has been implemented as a recruitement 
-programming challenge.
+Simple API to manage employees(CRUD operations)
+
 - Run tests `python manage.py test`
 - Run `python generate_dummies.py` to generate 5 random dummy employees(Faker used)
 - Run the webapp using ```python manage.py runserver```
